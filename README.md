@@ -2,7 +2,7 @@
 
 ## Involute drawer
 
-An ipelet for drawing aproximated ipelets. Select a mark and a path, the Ipelet will produce a clockwise or counter-clockwise involute originating from the selected mark that is evolute to the selected path.
+An Ipelet for drawing approximated ivolutes. Select a mark and a path, the Ipelet will produce a clockwise or counter-clockwise involute originating from the selected mark that is evolute to the selected path.
    
 The produced involute is represented as a path and 200 units long. If the involute needs to be longer, it can be modified in the code or a second involute can be drawn from the end of the previous involute by placing a new mark there.
 
